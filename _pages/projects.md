@@ -1,10 +1,10 @@
 ---
 layout: page
 title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
-nav: true
-display_categories: [work, fun]
+<!-- permalink: /projects/ -->
+description: 
+nav: false
+display_categories: []
 horizontal: false
 ---
 <div class="projects">
